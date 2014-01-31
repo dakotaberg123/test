@@ -1,0 +1,44 @@
+
+
+
+.power {
+	border-radius: 50px;
+	width: 60px;
+	padding: 20px 0;
+	background: lightgrey;
+	margin: 2px;
+}
+
+.power:hover {
+	background: grey;
+}
+
+.volumeup,
+.volumedown,
+.channelup,
+.channeldown {
+	background: lightgrey;
+	border-radius: 50px;
+	margin: 2px;
+	width: 40px;
+	padding: 0px;
+	font-size: 2em;
+}
+
+.volumeup:hover,
+.volumedown:hover,
+.channelup:hover,
+.channeldown:hover {
+	background: grey;
+}
+
+
+
+h2 {
+	color: lightgrey;
+	font-size: 1em;
+	text-align: center;
+}
+
+
+
